@@ -3,6 +3,7 @@
 This project aimed to analyze pharmaceutical sales data at the customer level to identify trends in drug consumption, customer demographics, and product performance across different regions and categories.
 
 **Summary:**
+
 **1. Sales Distribution Across India**
 Pivot chart was prepared to understand the sales distribution across India. It was found that Bangalore had higher sales volumes, useful for targeted regional inventory planning.
 
